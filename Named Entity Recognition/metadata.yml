@@ -1,0 +1,12 @@
+---
+:id: 164756422
+:submitters:
+- :name: Caleb L'Italien
+  :email: litaliec@union.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-02-26 01:43:12.480762000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-02-25 17:43:12.480762000 Z
+:status: processed
+:score: 42.0
